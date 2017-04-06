@@ -20,7 +20,7 @@ function start(client) {
 	{
 		"la poule" : "poule",
 		"l'ours" : "ours",
-		"le porc" : "porc",
+		"le port" : "cochon",
 		"le cochon" : "cochon",
 		"le grillon" : "grillon",
 		"le chien de prairie" : "chienprairie",
