@@ -87,6 +87,7 @@ Quelques exemples possibles:
 ...
 
 Puis vous demandera quel animal faut il imiter:
+
 La liste des animaux renseigné se trouve dans le bruitages.js
 
 En exemple :
@@ -94,6 +95,7 @@ En exemple :
 - Le cochon
 
 Il vous sera ensuite proposé d'en refaire un autre.
+
 Réponse souhaitée :
 - oui s'il te plait
 - non merci
