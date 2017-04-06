@@ -1,9 +1,0 @@
-{
-	"modules" : { 
-		"bruitages"  : {
-			"description": "Reproduit 70 cris d'animaux environs",
-			"version": "1.0",
-			"rules" : ["animal","animals"]
-		}
-	}
-}
